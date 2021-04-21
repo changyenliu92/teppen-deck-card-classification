@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data generated from dataset_generator.ipynb
+dataset/train/
